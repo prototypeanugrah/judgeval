@@ -58,3 +58,7 @@ trails/
 * Scorer thresholds are currently set to `0.5` for easy experimentation—tune as needed.  
 
 Happy trail planning!
+
+## Next steps (TODO)
+- Implement a SummarizerScorer
+- Experiment with Multi-modal scorers
