@@ -16,7 +16,7 @@ classifiers = [
 license = "Apache-2.0"
 license-files = ["LICENSE.md"]
 dependencies = [
-    "litellm==1.61.15",
+    "litellm>=1.61.15",
     "python-dotenv==1.0.1",
     "requests",
     "pandas",

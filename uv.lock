@@ -1313,7 +1313,7 @@ requires-dist = [
     { name = "langchain-core" },
     { name = "langchain-huggingface" },
     { name = "langchain-openai" },
-    { name = "litellm", specifier = "==1.61.15" },
+    { name = "litellm", specifier = ">=1.61.15" },
     { name = "matplotlib", specifier = ">=3.10.3" },
     { name = "nest-asyncio" },
     { name = "openai" },
